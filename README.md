@@ -12,6 +12,7 @@ Projeto construído durante o curso React: desenvolvendo com JavaScript, ministr
 
 - ReactJS
 - Javascript
+- Styled Components
 
 ## 💻 Projeto
 
