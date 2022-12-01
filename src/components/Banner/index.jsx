@@ -1,4 +1,4 @@
-import { Container } from './styles'
+import { Container } from './style'
 import bannerImg from '../../assets/images/banner.png';
 
 export default function Banner() {
